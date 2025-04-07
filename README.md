@@ -1,12 +1,14 @@
-#  Grammar Scoring Engine for Spoken English (Hybrid NLP + ML Model)
+# 🧠 Grammar Scoring Engine for Spoken English (Hybrid NLP + ML Model)
 
-##  Overview
+## 📘 Overview
 
 This notebook presents a high-performance **Grammar Scoring Engine** built for evaluating spoken English responses. Each audio clip is 45–60 seconds long and is rated on a continuous **0–5 grammar proficiency scale** (MOS-based).
 
 The challenge is tackled by combining the **best of deep learning and classical ML**, creating a **hybrid ensemble model** that mimics expert human scoring by evaluating both:
 - **Grammatical Accuracy** (via error detection and correction)
 - **Grammatical Sophistication** (via sentence structure and syntactic complexity)
+
+📄 **[Read Full Project Report](REPORT.md)** — Contains detailed explanations on the pipeline architecture, preprocessing, feature extraction, and evaluation metrics.
 
 ---
 
@@ -54,4 +56,3 @@ This score reflects human-like ranking and prediction performance, despite a sma
 
 ## 🏁 Closing Notes
 This notebook demonstrates how combining ASR, NLP, and ML can replicate expert-level grammar evaluation in speech. The approach is modular, interpretable, and ready for deployment in automated spoken language assessment.
-
