@@ -8,7 +8,7 @@ The challenge is tackled by combining the **best of deep learning and classical 
 - **Grammatical Accuracy** (via error detection and correction)
 - **Grammatical Sophistication** (via sentence structure and syntactic complexity)
 
-📄 **[Read Full Project Report](REPORT.md)** — Contains detailed explanations on the pipeline architecture, preprocessing, feature extraction, and evaluation metrics.
+📄 **[Read Full Project Report](https://github.com/Mochoye/Grammar-Scoring-Engine-for-Voice-Samples-SHL/blob/main/Grammar%20Scoring%20Report.docx)** — Contains detailed explanations on the pipeline architecture, preprocessing, feature extraction, and evaluation metrics.
 
 ---
 
