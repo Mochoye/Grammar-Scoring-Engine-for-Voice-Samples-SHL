@@ -1,4 +1,4 @@
-# 🧠 Grammar Scoring Engine for Spoken English (Hybrid NLP + ML Model)
+# Grammar Scoring Engine for Spoken English (Hybrid NLP + ML Model)
 
 ## 📘 Overview
 
